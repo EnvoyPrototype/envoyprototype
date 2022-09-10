@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hello@jimrogers.dev**
 
-- ⚡ Fun fact **I'm a long time member of The Traffic Cone Preservation Society**
+- ⚡ Fun fact **I'm a long time member of <a href="http://www.trafficcone.com/" target="_blank">The Traffic Cone Preservation Society</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
