@@ -5,7 +5,7 @@
 
 - I'm currently learning **ASP.NET / C#**
 
-- 👨‍💻 All of my projects are available at [www.jimrogers.dev](www.jimrogers.dev)
+- 👨‍💻 All of my projects are available at <a href="https://www.jimrogers.dev" target="_blank">JimRogers.dev</a>
 
 - 📫 How to reach me **hello@jimrogers.dev**
 
