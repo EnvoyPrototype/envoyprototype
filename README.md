@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://www.jimrogers.dev" target="_blank">JimRogers.dev</a>
 
-- 📫 How to reach me **hello@jimrogers.dev**
+- 📫 How to reach me **jimrogers3315@gmail.com**
 
 - ⚡ Fun fact **I'm a long time member of <a href="http://www.trafficcone.com/" target="_blank">The Traffic Cone Preservation Society</a>**
 
